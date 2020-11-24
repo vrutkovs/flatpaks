@@ -56,3 +56,4 @@ gpg-verify-summary=false
 gpg-verify-summary=false
 indexed-deltas=true
 gpg-verify-summary=false
+gpg-verify-summary=false
